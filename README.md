@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @fusionhuh
-- 👀 I’m interested in gtk applications and sprucing up the linux desktop
-- 🌱 I’m currently learning C
+- 🌱 I’m currently learning C++
 - 📫 How to reach me: joshkar560@gmail.com
 
 <!---
